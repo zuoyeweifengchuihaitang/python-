@@ -4,8 +4,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
-![YOLOv8](https://img.shields.io/badge/AI-YOLOv8-orange)
 ![MediaPipe](https://img.shields.io/badge/AI-MediaPipe-teal)
+![YOLOv8](https://img.shields.io/badge/AI-YOLOv8-orange)
+
 
 ---
 
